@@ -1,5 +1,5 @@
-# LatexMathgen
-Python script for generating math exams with fractions in latex. Built with vocational schools in mind.
+# Latex Mathgen
+Python script for generating math exams with fractions in latex. Built with vocational education in mind.
 
 Consists of 4 files.
 ## mathgen.py
